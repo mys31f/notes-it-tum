@@ -1,4 +1,3 @@
-[TOC]
 ## Deutsch
 Hier ist nur eine kleine Repository von Notes auf dem Basis von Vorlesungen (wenn jmd. da ist) und Slides für andere TUM-Studenten für die Fächer, die mit Informatik zu tun sind. Es ist nur von mir und ein paar Freunden gemacht, und wir sind für Feedback und Korrekturen offen, wenn wir etwas in unseren Notes falsch geschrieben oder verstanden haben, oder wenn etwas fehlt.
 ### Ordnerstruktur
