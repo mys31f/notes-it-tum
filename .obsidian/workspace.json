@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "46330a1f4582fca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3642197774e14bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e0899fc5992b921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae2641ddb8710ff7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a3a52ea752c87b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c7b4e349a8148d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a1a92f9f813ace3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7746204c8dfc9e88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "881475211e5c7b77",
+    "type": "split",
+    "children": [
+      {
+        "id": "2305a55cc5aa55f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1044aa699937ee7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "d62a9d25cd18f08c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "04b4a08c42bc25c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8df861719e12864",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e0899fc5992b921",
+  "lastOpenFiles": [
+    "CONTRIBUTING.md",
+    "info/garching/b-info/subject",
+    "info/garching/b-info",
+    "anwendungsfach/heilbronn/m-ie",
+    "anwendungsfach/heilbronn/b-ie",
+    "anwendungsfach/garching/m-info",
+    "anwendungsfach/garching/b-winfo",
+    "anwendungsfach/garching/b-info",
+    "management/Untitled 4",
+    "management/Untitled 3",
+    "info/heilbronn"
+  ]
+}
