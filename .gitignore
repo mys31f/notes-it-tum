@@ -1,6 +1,6 @@
 # obsidian settings
-.obsidian/
+.obsidian
 
 # OS specific configs
-.trash/
+.trash
 .DS_Store
