@@ -1,25 +1,26 @@
+# test diagram
+```mermaid
+flowchart LR
+  Metamodel["Metamodel"]
+  Framework["EA Framework"]
+  Model["Model"]
+  EAModel["EA model"]
+  Architecture["Architecture"]
+  EA["EA"]
+  System["System"]
+  Ecosystem["Enterprise‑wide digital ecosystem"]
 
-```flow
-meta=>operation: Metamodel
-framework=>operation: EA Framework
-model=>operation: Model
-eamodel=>operation: EA model
-architecture=>operation: Architecture
-ea=>operation: EA
-system=>operation: System
-ecosystem=>operation: Enterprise‑wide digital ecosystem
+  Framework --> Metamodel : "Is a"
+  Metamodel --> Model : "Is a manual for"
+  Framework --> EAModel : "Is a manual for"
+  EAModel --> Model : "Is a"
+  
+  Model --> Architecture : "Represents"
+  EAModel --> EA : "Represents"
+  
+  Architecture --> System : "Has an"
+  EA --> Ecosystem : "Has an"
+  
+  System --> Ecosystem : "Is a"
 
-meta->model: Is a manual for
-framework->eamodel: Is a manual for
-
-framework->meta: Is a
-eamodel->model: Is a
-
-model->architecture: Represents
-eamodel->ea: Represents
-
-architecture->system: Has an
-ea->ecosystem: Has an
-
-system->ecosystem: Is a
 ```
