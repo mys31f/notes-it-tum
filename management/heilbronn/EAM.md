@@ -1,6 +1,6 @@
 # test diagram
 ```mermaid
-flowchart LR
+flowchart TD
   Metamodel[Metamodel]
   Framework[EA Framework]
   Model[Model]
